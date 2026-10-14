@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Начало
+title: Home
 ---
 
 # Hello!
